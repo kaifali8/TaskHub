@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskHub</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="signin_title">Let\'s Get started</string>
+    <string name="signin_description">Collaborate and Plan Together Across Multiple Devices on TaskHub\'s Minimalistic Interface.</string>
+    <string name="sign_up_description">Enter your name, email id and password, to register with us.</string>
+    <string name="sign_in_description">Enter your email and password to sign in to your account</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="no_boards_available">No Boards are available!</string>
+    <string name="board_image_contentdescription">board image</string>
+    <string name="default_notification_channel_id">taskhub_notification_channel_id</string>
+</resources>

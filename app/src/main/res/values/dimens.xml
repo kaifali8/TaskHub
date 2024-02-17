@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_screen_title_text_size">70sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="height_of_nav_main">200dp</dimen>
+    <dimen name="nav_image_size">80dp</dimen>
+    <dimen name="nav_image_circular_border_width">1dp</dimen>
+    <dimen name="nav_username_text_size">16sp</dimen>
+    <dimen name="nav_content_margin_StartEnd">16sp</dimen>
+    <dimen name="nav_content_margin_top">5dp</dimen>
+    <dimen name="nav_content_margin_bottom">10dp</dimen>
+    <dimen name="nav_divider_height">0.5dp</dimen>
+    
+    <dimen name="my_profile_screen_content_marginStartEnd">16dp</dimen>
+    <dimen name="my_profile_screen_content_marginTopBottom">10dp</dimen>
+    <dimen name="my_profile_screen_content_padding">16dp</dimen>
+    <dimen name="my_profile_user_image_size">100dp</dimen>
+    <dimen name="my_profile_name_till_marginTop">25dp</dimen>
+    <dimen name="my_profile_et_email_marginTop">20dp</dimen>
+    <dimen name="my_profile_et_mobile_marginTop">20dp</dimen>
+    <dimen name="my_profile_btn_update_marginTop">30dp</dimen>
+    
+    <dimen name="no_boards_available_text_size">16sp</dimen>
+    <dimen name="item_board_content_marginBottom">10dp</dimen>
+    <dimen name="item_board_content_padding">10dp</dimen>
+    <dimen name="item_board_image_size">60dp</dimen>
+    <dimen name="item_board_image_circular_border_width">0.5dp</dimen>
+    <dimen name="item_board_name_layout_marginStart">10dp</dimen>
+    <dimen name="item_board_name_textSize">18sp</dimen>
+    <dimen name="item_board_created_by_text_size">14sp</dimen>
+    <dimen name="item_board_divider_marginTop">5dp</dimen>
+    <dimen name="item_board_divider_height">0.3dp</dimen>
+    <dimen name="task_list_content_padding">10dp</dimen>
+    
+    <dimen name="item_selected_member_image_size">45dp</dimen>
+</resources>
